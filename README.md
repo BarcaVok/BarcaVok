@@ -10,7 +10,7 @@ Jaký je vliv prostředí a demografie na politické zastoupení žen? **Cílem*
 
 
 
-## This repository showcases examples of my work in SQL, Python, and Power BI
+## This repository showcases examples of my work in SQL, Python and Power BI
 
 ### 1. The project—"Where Do Women get preferential votes?"—is my final project for the Digital Academy—data from Czechitas—and was created in collaboration with Anna Musílek.
 
